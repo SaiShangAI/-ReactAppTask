@@ -3,7 +3,7 @@
 
 In this project, we build a small React app which shows the public Github repositories of a user. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-![npm](https://img.shields.io/badge/npm-v6.13.4-blue) ![node](https://img.shields.io/badge/node-v12.14.1-yellow)  ![antd](https://img.shields.io/badge/antd-v4.0.0-orange) ![react](https://img.shields.io/badge/react-v16.13.0-yellowgreen) ![GitHub repo size](https://img.shields.io/github/repo-size/saishangAI/-ReactAppTask?color=green) ![author](https://img.shields.io/badge/author-Sai-yellowgreen)
+![npm](https://img.shields.io/badge/npm-v6.13.4-blue) ![node](https://img.shields.io/badge/node-v12.14.1-yellow)  ![antd](https://img.shields.io/badge/antd-v4.0.0-orange) ![react](https://img.shields.io/badge/react-v16.13.0-yellowgreen) ![author](https://img.shields.io/badge/author-Sai-yellowgreen)
 
 Here's what the application will look like once you are done:
 ![](/image/demo.gif)
